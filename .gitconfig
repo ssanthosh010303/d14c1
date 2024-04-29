@@ -1,0 +1,8 @@
+[user]
+	name = Sakthi Santhosh
+	email = ssanthosh@presidio.com
+        signingkey = F64AB58C79407FF3E64110D054F4D24B2B284787
+[init]
+        defaultbranch = main
+[commit]
+	gpgsign = true
