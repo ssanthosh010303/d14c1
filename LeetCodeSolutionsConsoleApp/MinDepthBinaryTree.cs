@@ -6,7 +6,7 @@ public class Solution
 {
     private int _minDepth = int.MaxValue;
 
-    public void MinDepthFinder(TreeNode node, int currentDepth = 0)
+    public async Task MinDepthFinder(TreeNode node, int currentDepth = 0)
     {
         currentDepth++;
 

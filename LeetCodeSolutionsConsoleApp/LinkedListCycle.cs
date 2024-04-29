@@ -4,7 +4,7 @@
  */
 public class Solution
 {
-    public bool HasCycle(ListNode head)
+    public async Task<bool> HasCycle(ListNode head)
     {
         if (head == null) return false;
 

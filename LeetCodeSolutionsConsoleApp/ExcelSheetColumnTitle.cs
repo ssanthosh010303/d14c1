@@ -4,7 +4,7 @@
  */
 public class Solution
 {
-    public string ConvertToTitle(int columnNumber)
+    public async Task<string> ConvertToTitle(int columnNumber)
     {
         StringBuilder result = new StringBuilder();
         char character;
