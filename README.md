@@ -5,7 +5,7 @@
 
 ## Problems Solved
 
-Following are the problems solved under this assessment:
+Following are the problems solved under this assignment:
 
 1. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 2. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
